@@ -44,7 +44,7 @@ img {
     width: 200px;
     height: 300px;
     object-fit: cover;
-    padding: 5px 8px 5px 8px;
+    padding: 10px 8px 10px 8px;
     -webkit-filter: blur(0);
 	filter: blur(0);
 	-webkit-transition: .5s ease-in-out;
@@ -75,8 +75,13 @@ p {
 
 .topcontainer {
     background-color: #DDDDDD;
-    padding-bottom: 30px;
+    padding-bottom: 70px;
 }
+
+.bottomcontainer{
+    background-color: #222831;
+}
+
 .btn {
     background: #F05454;
     background-image: -webkit-linear-gradient(top, #F05454, #F05454);
@@ -120,6 +125,10 @@ text-decoration: none;
 #contectbtn {
     bottom: 15px;
     right: 15px;
+}
+
+#Copyright {
+    color:#ffffff;
 }
 
 .imageinstalink {
