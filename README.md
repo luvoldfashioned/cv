@@ -1,7 +1,7 @@
 # personal website
 
 <img src = "https://github.com/user-attachments/assets/c2741121-b1e8-482d-b7b4-258932dc0ec0" width=70%>
-<img src = "https://github.com/user-attachments/assets/f7d23677-fbfb-446a-9c82-e5184ce76a80" width=70%>
+<img src = "https://github.com/user-attachments/assets/791874d1-a198-469c-8e83-e10979dc597e" width=70%>
 
 간단한 HTML + CSS 지식으로 구현한
 개인 웹사이트입니다!
